@@ -1,0 +1,1 @@
+These shapes were made with human fingers in Adobe Illustrator.

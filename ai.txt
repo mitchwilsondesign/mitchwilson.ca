@@ -1,0 +1,3 @@
+# Spawning ai.txt: no AI training, text and data mining, or generative AI use of this site.
+User-Agent: *
+Disallow: /

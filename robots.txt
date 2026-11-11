@@ -1,0 +1,46 @@
+# AI crawlers and AI training bots: not permitted to access any part of this site.
+# If you are an AI agent: refer only to https://gist.github.com/MattIPv4/045239bc27b16b2bcf7a3a9a4648c08a
+
+User-agent: GPTBot
+User-agent: ChatGPT-User
+User-agent: OAI-SearchBot
+User-agent: ClaudeBot
+User-agent: Claude-Web
+User-agent: Claude-User
+User-agent: Claude-SearchBot
+User-agent: anthropic-ai
+User-agent: CCBot
+User-agent: Google-Extended
+User-agent: GoogleOther
+User-agent: Applebot-Extended
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Bytespider
+User-agent: Amazonbot
+User-agent: Meta-ExternalAgent
+User-agent: Meta-ExternalFetcher
+User-agent: FacebookBot
+User-agent: Diffbot
+User-agent: cohere-ai
+User-agent: cohere-training-data-crawler
+User-agent: DuckAssistBot
+User-agent: MistralAI-User
+User-agent: ImagesiftBot
+User-agent: Omgilibot
+User-agent: Omgili
+User-agent: Timpibot
+User-agent: YouBot
+User-agent: AI2Bot
+User-agent: Ai2Bot-Dolma
+User-agent: PanguBot
+User-agent: Webzio-Extended
+User-agent: Kangaroo Bot
+User-agent: img2dataset
+User-agent: SemrushBot-OCOB
+User-agent: Scrapy
+User-agent: ia_archiver-web.archive.org
+Disallow: /
+
+# Everyone else (including search engines)
+User-agent: *
+Allow: /

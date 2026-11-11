@@ -1,0 +1,10 @@
+Copyright (c) Mitch Wilson. All rights reserved.
+
+No part of this repository or the website published from it may be copied, modified,
+distributed or reused without written permission from the author.
+
+In particular, no permission is granted to use any of this content, in whole or in part, for
+training, fine-tuning, evaluating or grounding any artificial intelligence or machine learning
+model, for text and data mining, for retrieval or summarisation by automated systems, or for
+generative AI of any kind. The author expressly reserves these rights, including under the
+EU DSM Directive Article 4(3) and equivalent laws.
