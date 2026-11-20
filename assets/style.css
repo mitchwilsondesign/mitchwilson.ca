@@ -672,6 +672,9 @@ h3.cred-group { margin: 1.75rem 0 0.75rem; font-size: 1.3rem; color: var(--h1-co
   margin: 0;
 }
 .cv-card h3 { margin: 0 0 0.4rem; font-size: 1rem; }
+.cv-card.work h3, .cv-card.award h3, .cv-card.conference h3 { color: var(--h1-color); }
+.cv-card.micro h4 { color: var(--h2-color); }
+.cv-grid + .cv-grid { margin-top: 1rem; }
 .cv-card h4 { margin: 0 0 0.4rem; font-size: 1rem; }
 .cv-card p { margin: 0 0 0.25rem; }
 .cv-card .meta { font-size: 0.9rem; }
@@ -680,6 +683,7 @@ h3.cred-group { margin: 1.75rem 0 0.75rem; font-size: 1.3rem; color: var(--h1-co
 .cv-roles li { margin: 0 0 0.6rem; }
 .cv-roles li:last-child { margin-bottom: 0; }
 .cv-roles h4 { margin: 0; font-size: 0.95rem; }
+.cv-roles.volunteer h4 { color: var(--h2-color); }
 .cv-roles .meta { margin: 0; }
 .cv-card .meta { margin: 0; font-size: 0.9rem; }
 
