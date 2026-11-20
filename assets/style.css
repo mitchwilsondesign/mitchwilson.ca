@@ -1059,3 +1059,13 @@ form.contact-form button,
 .lightbox-count { pointer-events: none; }
 .image-grid.stacked { grid-template-columns: minmax(0, 1fr); }
 .image-grid.stacked img { width: 100%; height: auto; }
+
+/* Shapes banner attached to the bottom edge of the footer panel */
+footer.site-footer .wrap { overflow: hidden; }
+footer.site-footer .wrap::after {
+  content: "";
+  display: block;
+  height: 40px;
+  margin: 1.5rem -1.5rem -1.5rem;
+  background: url("i-like-shapes/Banner.svg") center center / 1200px auto no-repeat;
+}
